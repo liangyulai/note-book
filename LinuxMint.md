@@ -36,3 +36,13 @@ $ sudo apt-get install docker-engine
 $ sudo groupadd docker
 $ sudo usermod -aG docker $USER
 ```
+
+
+
+## [Install Node.js](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+sudo apt-get install -y nodejs
+sudo apt-get install -y build-essential
+
+
+sudo cp ~/.meteor/packages/meteor-tool/1.4.1_3/mt-os.linux.x86_64/scripts/admin/launch-meteor /usr/local/bin/meteor
