@@ -17,19 +17,19 @@ sudo chsh -s /bin/zsh
 ```
 
 ### Chose your editor
-#### ![](https://www.meteor.com/assets/icon-atom.svg) [ATOM: A hackable text editor](https://atom.io/)
+#### <img src="https://www.meteor.com/assets/icon-atom.svg" width="48"> [ATOM: A hackable text editor](https://atom.io/)
 ```
 ```
 
-#### ![](https://www.meteor.com/assets/icon-subline.svg) [Sublime Text 3](https://www.sublimetext.com/3)
+#### <img src="https://www.meteor.com/assets/icon-subline.svg" width="48"> [Sublime Text 3](https://www.sublimetext.com/3)
 ```
 ```
 
-#### ![](https://www.meteor.com/assets/icon-visual.svg) [Visual Studio Code](https://code.visualstudio.com/download)
+#### <img src="https://www.meteor.com/assets/icon-visual.svg" width="48"> [Visual Studio Code](https://code.visualstudio.com/download)
 ```
 ```
 
-#### ![](https://www.meteor.com/assets/icon-webstr.svg) [WebStrom](https://www.jetbrains.com/webstorm/)
+#### <img src="https://www.meteor.com/assets/icon-webstr.svg" width="48"> [WebStrom](https://www.jetbrains.com/webstorm/)
 ```
 ```
 
