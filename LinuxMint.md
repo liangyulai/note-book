@@ -17,19 +17,21 @@ sudo chsh -s /bin/zsh
 ```
 
 ### Chose your editor
-#### [ATOM: A hackable text editor](https://atom.io/)
-
+#### ![](https://www.meteor.com/assets/icon-atom.svg) [ATOM: A hackable text editor](https://atom.io/)
 ```
 ```
 
-#### [Sublime Text 3](https://www.sublimetext.com/3)
+#### ![](https://www.meteor.com/assets/icon-subline.svg) [Sublime Text 3](https://www.sublimetext.com/3)
 ```
 ```
 
-#### [Visual Studio Code](https://code.visualstudio.com/download)
+#### ![](https://www.meteor.com/assets/icon-visual.svg) [Visual Studio Code](https://code.visualstudio.com/download)
+```
+```
 
-#### [WebStrom](https://www.jetbrains.com/webstorm/)
-
+#### ![](https://www.meteor.com/assets/icon-webstr.svg) [WebStrom](https://www.jetbrains.com/webstorm/)
+```
+```
 
 ## [Install Docker](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
 
