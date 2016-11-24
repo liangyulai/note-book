@@ -49,12 +49,14 @@ sudo apt-get install linux-image-generic
 sudo apt-get install linux-headers-generic
 sudo apt-get install linux-image-extra-virtual
 ```
-
+Install Docker.
 ```
 sudo apt-get install docker-engine
-
-sudo groupadd docker
 sudo usermod -aG docker $USER
+```
+Start the docker daemon (You need to logout & re-login after modify the user group).
+```
+sudo service docker start
 ```
 
 
