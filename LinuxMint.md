@@ -11,9 +11,9 @@ sudo apt-get install chromium-browser git terminator vim geany tree htop
 ```
 mkdir -p ~/workspace/github
 cd ~/workspace/github
-git clone --recursive git@github.com:liangyulai/ubuntu-configuration.git
+git clone --recursive https://github.com/liangyulai/ubuntu-configuration.git
 ln -s ~/workspace/github/ubuntu-configuration/zshrc ~/.zshrc
-sudo chsh -s /bin/zsh
+sudo chsh -s $(which zsh) $(whoami)
 ```
 
 ### Chose your editor
