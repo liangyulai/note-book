@@ -1,3 +1,10 @@
+## [Meteor](https://www.meteor.com/install)
+
+```
+curl https://install.meteor.com/ | sh
+sudo cp ~/.meteor/packages/meteor-tool/1.4.1_3/mt-os.linux.x86_64/scripts/admin/launch-meteor /usr/local/bin/meteor
+```
+
 ## [基于 Meteor 开发应用程序的文件结构](https://guide.meteor.com/structure.html)
 
 After reading this article, you’ll know:
